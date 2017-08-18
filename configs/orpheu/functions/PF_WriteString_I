@@ -1,0 +1,10 @@
+{
+    "name" : "PF_WriteString_I",
+    "library" : "engine",
+    "arguments" :
+    [
+        {
+            "type" : "char *"
+        }
+    ]
+}
