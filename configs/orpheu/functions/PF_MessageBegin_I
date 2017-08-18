@@ -1,0 +1,19 @@
+{
+    "name" : "PF_MessageBegin_I",
+    "library" : "engine",
+    "arguments" :
+    [
+        {
+            "type" : "int"
+        },
+		{
+            "type" : "int"
+        },
+		{
+            "type" : "pointer"
+        },
+		{
+            "type" : "edict_s *"
+        }
+    ]
+}
